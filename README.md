@@ -1,3 +1,6 @@
+```⚠️ I don't use Heroku anymore, and thus I haven't updated this in a long time. There are other, better buildpacks out there for use with .NET Core.```
+
+
 Mono buildpack for heroku, with the latest daily mono release.   [![](https://circleci.com/gh/adamburgess/heroku-buildpack-mono-builder.png?style=shield&circle-token=fe5a1697660ac8727b496f624407ea006b2069d7)](https://circleci.com/gh/adamburgess/heroku-buildpack-mono-builder)
 
 #### what to use this for
